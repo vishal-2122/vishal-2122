@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishal
-- 👀 I’m interested in cloud computing.
+- 👀 I’m interested in Artificial Intelligence & Machine Learning.
 - 🌱 I’m currently pursuing computer science engineering from KLE Technological University. 
 - 📫 you can reach me through my mail id- 01fe20bcs251@kletech.ac.in 
 
